@@ -1,4 +1,4 @@
-# <em>from</em> Flux <em>to</em> <strong>BARREL</strong>
+# <em>from</em> Flux <em>to</em> <strong>BARREL</strong> 🍺
 
 ## A pseudo-MCMC sampler for building quick pheno analyses.
 
